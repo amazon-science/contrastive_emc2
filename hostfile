@@ -1,0 +1,2 @@
+master slots=8
+worker1 slots=8
